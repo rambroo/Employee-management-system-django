@@ -1,0 +1,2 @@
+# django-project
+EMPLOYEE MANAGEMENT SYSTEM
